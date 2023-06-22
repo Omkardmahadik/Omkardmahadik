@@ -1,7 +1,8 @@
 ![MasterHead](https://madehuge.com/wp-content/uploads/2022/03/web-development.gif)
 <h1 align="center">Hi 👋, I'm Omkar Mahadik</h1>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<h3 align="center">A passionate UIUX Designer from India</h3>
+<h3> A passionate UIUX Designer from India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkardmahadik&label=Profile%20views&color=0e75b6&style=flat"  </p>
 
 - 🌱 I’m currently learning **web development**
