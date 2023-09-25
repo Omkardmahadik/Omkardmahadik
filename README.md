@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/omkarmahadik1](https://www.behance.net/omkarmahadik1)
 
-- 💬 Ask me about **c++**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **omkardmahadik@gmail.com**
 
